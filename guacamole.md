@@ -4,5 +4,4 @@
 *lemon
 *salt
 ## Instructions
-do some stuff
-
+*put one avocado in a bowl
